@@ -128,14 +128,6 @@ console.log(userProfile);
 
 
 
-// function addTwoNumbers(numA=1, numB=2) {
-//   return numA + numB;
-// }
-
-// console.log( addTwoNumbers(2,5));
-
-
-
 // ! Exercise 8:
 // a. Create a function with two parameters, `noun` and `adjective`.
 // 
@@ -174,19 +166,6 @@ const pizza = 'tasty';
 // Your code here:
 const tasty= pizza==='tasty' ? 'yum':'yuck';
 console.log(tasty);
-
-
-
-const myVar=""
-const result1 = 'bar' && 'foo';
-const result2 = false || 243;
-const result3 = 42 && false;
-const result4 = myVar || 3000;
-
-console.log('result1:', result1);
-console.log('result2:', result2);
-console.log('result3:', result3);
-console.log('result4:', result4);
 
 
 // ! Exercise 10:
